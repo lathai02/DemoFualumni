@@ -1,12 +1,190 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\FALL2024\\ApiAngular\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|d:\\fall2024\\apiangular\\apiangular\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|solutionrelative:apiangular\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|d:\\fall2024\\apiangular\\apiangular\\models\\fualumni_democontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|solutionrelative:apiangular\\models\\fualumni_democontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|d:\\fall2024\\apiangular\\apiangular\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|solutionrelative:apiangular\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|d:\\fall2024\\apiangular\\apiangular\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|solutionrelative:apiangular\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|d:\\fall2024\\apiangular\\apiangular\\controllers\\detectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|solutionrelative:apiangular\\controllers\\detectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|d:\\fall2024\\apiangular\\apiangular\\models\\clientstoreddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|solutionrelative:apiangular\\models\\clientstoreddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|d:\\fall2024\\apiangular\\apiangular\\models\\notificationdetailresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|solutionrelative:apiangular\\models\\notificationdetailresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|d:\\fall2024\\apiangular\\apiangular\\models\\facedetectionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|solutionrelative:apiangular\\models\\facedetectionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|d:\\fall2024\\apiangular\\apiangular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|solutionrelative:apiangular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|d:\\fall2024\\apiangular\\apiangular\\controllers\\webhookreceivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|solutionrelative:apiangular\\controllers\\webhookreceivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fualumni_demoContext.cs",
+              "DocumentMoniker": "D:\\FALL2024\\ApiAngular\\ApiAngular\\Models\\Fualumni_demoContext.cs",
+              "RelativeDocumentMoniker": "ApiAngular\\Models\\Fualumni_demoContext.cs",
+              "ToolTip": "D:\\FALL2024\\ApiAngular\\ApiAngular\\Models\\Fualumni_demoContext.cs",
+              "RelativeToolTip": "ApiAngular\\Models\\Fualumni_demoContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwB0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:22:50.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "D:\\FALL2024\\ApiAngular\\ApiAngular\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "ApiAngular\\Models\\Notification.cs",
+              "ToolTip": "D:\\FALL2024\\ApiAngular\\ApiAngular\\Models\\Notification.cs",
+              "RelativeToolTip": "ApiAngular\\Models\\Notification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:22:08.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FALL2024\\ApiAngular\\ApiAngular\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiAngular\\appsettings.json",
+              "ToolTip": "D:\\FALL2024\\ApiAngular\\ApiAngular\\appsettings.json",
+              "RelativeToolTip": "ApiAngular\\appsettings.json",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwAkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T16:18:59.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientStoredData.cs",
+              "DocumentMoniker": "D:\\FALL2024\\ApiAngular\\ApiAngular\\Models\\ClientStoredData.cs",
+              "RelativeDocumentMoniker": "ApiAngular\\Models\\ClientStoredData.cs",
+              "ToolTip": "D:\\FALL2024\\ApiAngular\\ApiAngular\\Models\\ClientStoredData.cs",
+              "RelativeToolTip": "ApiAngular\\Models\\ClientStoredData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:55:28.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotificationDetailResponse.cs",
+              "DocumentMoniker": "D:\\FALL2024\\ApiAngular\\ApiAngular\\Models\\NotificationDetailResponse.cs",
+              "RelativeDocumentMoniker": "ApiAngular\\Models\\NotificationDetailResponse.cs",
+              "ToolTip": "D:\\FALL2024\\ApiAngular\\ApiAngular\\Models\\NotificationDetailResponse.cs",
+              "RelativeToolTip": "ApiAngular\\Models\\NotificationDetailResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:55:25.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FaceDetectionResult.cs",
+              "DocumentMoniker": "D:\\FALL2024\\ApiAngular\\ApiAngular\\Models\\FaceDetectionResult.cs",
+              "RelativeDocumentMoniker": "ApiAngular\\Models\\FaceDetectionResult.cs",
+              "ToolTip": "D:\\FALL2024\\ApiAngular\\ApiAngular\\Models\\FaceDetectionResult.cs",
+              "RelativeToolTip": "ApiAngular\\Models\\FaceDetectionResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:55:20.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "D:\\FALL2024\\ApiAngular\\ApiAngular\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "ApiAngular\\Controllers\\NotificationController.cs",
+              "ToolTip": "D:\\FALL2024\\ApiAngular\\ApiAngular\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "ApiAngular\\Controllers\\NotificationController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswDgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:54:56.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FALL2024\\ApiAngular\\ApiAngular\\Program.cs",
+              "RelativeDocumentMoniker": "ApiAngular\\Program.cs",
+              "ToolTip": "D:\\FALL2024\\ApiAngular\\ApiAngular\\Program.cs",
+              "RelativeToolTip": "ApiAngular\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:55:06.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebhookReceiverController.cs",
+              "DocumentMoniker": "D:\\FALL2024\\ApiAngular\\ApiAngular\\Controllers\\WebhookReceiverController.cs",
+              "RelativeDocumentMoniker": "ApiAngular\\Controllers\\WebhookReceiverController.cs",
+              "ToolTip": "D:\\FALL2024\\ApiAngular\\ApiAngular\\Controllers\\WebhookReceiverController.cs",
+              "RelativeToolTip": "ApiAngular\\Controllers\\WebhookReceiverController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:54:57.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetectController.cs",
+              "DocumentMoniker": "D:\\FALL2024\\ApiAngular\\ApiAngular\\Controllers\\DetectController.cs",
+              "RelativeDocumentMoniker": "ApiAngular\\Controllers\\DetectController.cs",
+              "ToolTip": "D:\\FALL2024\\ApiAngular\\ApiAngular\\Controllers\\DetectController.cs",
+              "RelativeToolTip": "ApiAngular\\Controllers\\DetectController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:54:52.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

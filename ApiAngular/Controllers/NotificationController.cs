@@ -56,6 +56,7 @@ namespace ApiAngular.Controllers
 
             return Ok(ListData);
         }
+
         private async Task GetUrlImageFromS3(NotificationDetailResponse ndr)
         {
             var request = new GetPreSignedUrlRequest
