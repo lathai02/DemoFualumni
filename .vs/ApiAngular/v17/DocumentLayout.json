@@ -1,33 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\FALL2024\\ApiAngular\\",
+  "WorkspaceRootPath": "D:\\K\u00EC 9\\Angular\\DemoFualumni\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|d:\\fall2024\\apiangular\\apiangular\\controllers\\webhookreceivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|solutionrelative:apiangular\\controllers\\webhookreceivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|d:\\k\u00EC 9\\angular\\demofualumni\\apiangular\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|solutionrelative:apiangular\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|d:\\fall2024\\apiangular\\apiangular\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|solutionrelative:apiangular\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|d:\\fall2024\\apiangular\\apiangular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|d:\\k\u00EC 9\\angular\\demofualumni\\apiangular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|solutionrelative:apiangular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|d:\\fall2024\\apiangular\\apiangular\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|d:\\k\u00EC 9\\angular\\demofualumni\\apiangular\\models\\data\\fualumni_democontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|solutionrelative:apiangular\\models\\data\\fualumni_democontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|d:\\k\u00EC 9\\angular\\demofualumni\\apiangular\\models\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|solutionrelative:apiangular\\models\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|d:\\k\u00EC 9\\angular\\demofualumni\\apiangular\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|solutionrelative:apiangular\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|d:\\fall2024\\apiangular\\apiangular\\models\\clientstoreddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|d:\\k\u00EC 9\\angular\\demofualumni\\apiangular\\models\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|solutionrelative:apiangular\\models\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|d:\\k\u00EC 9\\angular\\demofualumni\\apiangular\\models\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|solutionrelative:apiangular\\models\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|d:\\k\u00EC 9\\angular\\demofualumni\\apiangular\\controllers\\webhookreceivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|solutionrelative:apiangular\\controllers\\webhookreceivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|d:\\k\u00EC 9\\angular\\demofualumni\\apiangular\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|solutionrelative:apiangular\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|d:\\k\u00EC 9\\angular\\demofualumni\\apiangular\\models\\clientstoreddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|solutionrelative:apiangular\\models\\clientstoreddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|d:\\fall2024\\apiangular\\apiangular\\models\\notificationdetailresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|d:\\k\u00EC 9\\angular\\demofualumni\\apiangular\\models\\notificationdetailresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|solutionrelative:apiangular\\models\\notificationdetailresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|d:\\fall2024\\apiangular\\apiangular\\models\\facedetectionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|d:\\k\u00EC 9\\angular\\demofualumni\\apiangular\\models\\facedetectionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{961E74A4-9548-45BE-A144-CBF73CBD532F}|ApiAngular\\ApiAngular.csproj|solutionrelative:apiangular\\models\\facedetectionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,98 +58,197 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "RegisterRequestDTO.cs",
+              "DocumentMoniker": "D:\\K\u00EC 9\\Angular\\DemoFualumni\\ApiAngular\\Models\\RegisterRequestDTO.cs",
+              "RelativeDocumentMoniker": "ApiAngular\\Models\\RegisterRequestDTO.cs",
+              "ToolTip": "D:\\K\u00EC 9\\Angular\\DemoFualumni\\ApiAngular\\Models\\RegisterRequestDTO.cs",
+              "RelativeToolTip": "ApiAngular\\Models\\RegisterRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:47:31.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginRequestDTO.cs",
+              "DocumentMoniker": "D:\\K\u00EC 9\\Angular\\DemoFualumni\\ApiAngular\\Models\\LoginRequestDTO.cs",
+              "RelativeDocumentMoniker": "ApiAngular\\Models\\LoginRequestDTO.cs",
+              "ToolTip": "D:\\K\u00EC 9\\Angular\\DemoFualumni\\ApiAngular\\Models\\LoginRequestDTO.cs",
+              "RelativeToolTip": "ApiAngular\\Models\\LoginRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:40:36.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\K\u00EC 9\\Angular\\DemoFualumni\\ApiAngular\\Models\\Data\\User.cs",
+              "RelativeDocumentMoniker": "ApiAngular\\Models\\Data\\User.cs",
+              "ToolTip": "D:\\K\u00EC 9\\Angular\\DemoFualumni\\ApiAngular\\Models\\Data\\User.cs",
+              "RelativeToolTip": "ApiAngular\\Models\\Data\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:39:31.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fualumni_demoContext.cs",
+              "DocumentMoniker": "D:\\K\u00EC 9\\Angular\\DemoFualumni\\ApiAngular\\Models\\Data\\Fualumni_demoContext.cs",
+              "RelativeDocumentMoniker": "ApiAngular\\Models\\Data\\Fualumni_demoContext.cs",
+              "ToolTip": "D:\\K\u00EC 9\\Angular\\DemoFualumni\\ApiAngular\\Models\\Data\\Fualumni_demoContext.cs",
+              "RelativeToolTip": "ApiAngular\\Models\\Data\\Fualumni_demoContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:39:22.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\K\u00EC 9\\Angular\\DemoFualumni\\ApiAngular\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ApiAngular\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\K\u00EC 9\\Angular\\DemoFualumni\\ApiAngular\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ApiAngular\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:33:30.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\FALL2024\\ApiAngular\\ApiAngular\\appsettings.json",
+              "DocumentMoniker": "D:\\K\u00EC 9\\Angular\\DemoFualumni\\ApiAngular\\appsettings.json",
               "RelativeDocumentMoniker": "ApiAngular\\appsettings.json",
-              "ToolTip": "D:\\FALL2024\\ApiAngular\\ApiAngular\\appsettings.json",
-              "RelativeToolTip": "ApiAngular\\appsettings.json",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAwwAkAAABGAAAA",
+              "ToolTip": "D:\\K\u00EC 9\\Angular\\DemoFualumni\\ApiAngular\\appsettings.json*",
+              "RelativeToolTip": "ApiAngular\\appsettings.json*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwAkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-10-31T16:18:59.228Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "ClientStoredData.cs",
-              "DocumentMoniker": "D:\\FALL2024\\ApiAngular\\ApiAngular\\Models\\ClientStoredData.cs",
+              "DocumentMoniker": "D:\\K\u00EC 9\\Angular\\DemoFualumni\\ApiAngular\\Models\\ClientStoredData.cs",
               "RelativeDocumentMoniker": "ApiAngular\\Models\\ClientStoredData.cs",
-              "ToolTip": "D:\\FALL2024\\ApiAngular\\ApiAngular\\Models\\ClientStoredData.cs",
+              "ToolTip": "D:\\K\u00EC 9\\Angular\\DemoFualumni\\ApiAngular\\Models\\ClientStoredData.cs",
               "RelativeToolTip": "ApiAngular\\Models\\ClientStoredData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA3AAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T14:55:28.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\K\u00EC 9\\Angular\\DemoFualumni\\ApiAngular\\Program.cs",
+              "RelativeDocumentMoniker": "ApiAngular\\Program.cs",
+              "ToolTip": "D:\\K\u00EC 9\\Angular\\DemoFualumni\\ApiAngular\\Program.cs",
+              "RelativeToolTip": "ApiAngular\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwEkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:55:06.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "WebhookReceiverController.cs",
-              "DocumentMoniker": "D:\\FALL2024\\ApiAngular\\ApiAngular\\Controllers\\WebhookReceiverController.cs",
+              "DocumentMoniker": "D:\\K\u00EC 9\\Angular\\DemoFualumni\\ApiAngular\\Controllers\\WebhookReceiverController.cs",
               "RelativeDocumentMoniker": "ApiAngular\\Controllers\\WebhookReceiverController.cs",
-              "ToolTip": "D:\\FALL2024\\ApiAngular\\ApiAngular\\Controllers\\WebhookReceiverController.cs",
+              "ToolTip": "D:\\K\u00EC 9\\Angular\\DemoFualumni\\ApiAngular\\Controllers\\WebhookReceiverController.cs",
               "RelativeToolTip": "ApiAngular\\Controllers\\WebhookReceiverController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T14:54:57.719Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "NotificationDetailResponse.cs",
-              "DocumentMoniker": "D:\\FALL2024\\ApiAngular\\ApiAngular\\Models\\NotificationDetailResponse.cs",
+              "DocumentMoniker": "D:\\K\u00EC 9\\Angular\\DemoFualumni\\ApiAngular\\Models\\NotificationDetailResponse.cs",
               "RelativeDocumentMoniker": "ApiAngular\\Models\\NotificationDetailResponse.cs",
-              "ToolTip": "D:\\FALL2024\\ApiAngular\\ApiAngular\\Models\\NotificationDetailResponse.cs",
+              "ToolTip": "D:\\K\u00EC 9\\Angular\\DemoFualumni\\ApiAngular\\Models\\NotificationDetailResponse.cs",
               "RelativeToolTip": "ApiAngular\\Models\\NotificationDetailResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T14:55:25.513Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "FaceDetectionResult.cs",
-              "DocumentMoniker": "D:\\FALL2024\\ApiAngular\\ApiAngular\\Models\\FaceDetectionResult.cs",
+              "DocumentMoniker": "D:\\K\u00EC 9\\Angular\\DemoFualumni\\ApiAngular\\Models\\FaceDetectionResult.cs",
               "RelativeDocumentMoniker": "ApiAngular\\Models\\FaceDetectionResult.cs",
-              "ToolTip": "D:\\FALL2024\\ApiAngular\\ApiAngular\\Models\\FaceDetectionResult.cs",
+              "ToolTip": "D:\\K\u00EC 9\\Angular\\DemoFualumni\\ApiAngular\\Models\\FaceDetectionResult.cs",
               "RelativeToolTip": "ApiAngular\\Models\\FaceDetectionResult.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA9AAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T14:55:20.646Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "NotificationController.cs",
-              "DocumentMoniker": "D:\\FALL2024\\ApiAngular\\ApiAngular\\Controllers\\NotificationController.cs",
+              "DocumentMoniker": "D:\\K\u00EC 9\\Angular\\DemoFualumni\\ApiAngular\\Controllers\\NotificationController.cs",
               "RelativeDocumentMoniker": "ApiAngular\\Controllers\\NotificationController.cs",
-              "ToolTip": "D:\\FALL2024\\ApiAngular\\ApiAngular\\Controllers\\NotificationController.cs",
+              "ToolTip": "D:\\K\u00EC 9\\Angular\\DemoFualumni\\ApiAngular\\Controllers\\NotificationController.cs",
               "RelativeToolTip": "ApiAngular\\Controllers\\NotificationController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAswBwAAAAJAAAA",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T14:54:56.922Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FALL2024\\ApiAngular\\ApiAngular\\Program.cs",
-              "RelativeDocumentMoniker": "ApiAngular\\Program.cs",
-              "ToolTip": "D:\\FALL2024\\ApiAngular\\ApiAngular\\Program.cs",
-              "RelativeToolTip": "ApiAngular\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T14:55:06.522Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             }
           ]
         }
