@@ -17,6 +17,7 @@ namespace ApiAngular.Models.Data
         public string Password { get; set; } = null!;
         public string StudentNumber { get; set; } = null!;
         public string Email { get; set; } = null!;
+        public int Role { get; set; }
 
         public virtual ICollection<Notification> Notifications { get; set; }
         public virtual ICollection<Post> Posts { get; set; }

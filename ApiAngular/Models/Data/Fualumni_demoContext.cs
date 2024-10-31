@@ -65,7 +65,7 @@ namespace ApiAngular.Models.Data
             {
                 entity.ToTable("Post");
 
-                entity.HasIndex(e => e.ImageName, "UQ__Post__F92C6600A09BEF8F")
+                entity.HasIndex(e => e.ImageName, "UQ__Post__F92C6600B33119B5")
                     .IsUnique();
 
                 entity.Property(e => e.PostId).HasColumnName("PostID");
@@ -92,7 +92,7 @@ namespace ApiAngular.Models.Data
             {
                 entity.ToTable("Tag");
 
-                entity.HasIndex(e => new { e.UserId, e.PostId }, "UQ__Tag__8D29EAAE0C722AEE")
+                entity.HasIndex(e => new { e.UserId, e.PostId }, "UQ__Tag__8D29EAAECACCAE6B")
                     .IsUnique();
 
                 entity.Property(e => e.TagId).HasColumnName("TagID");
@@ -120,7 +120,7 @@ namespace ApiAngular.Models.Data
             {
                 entity.ToTable("User");
 
-                entity.HasIndex(e => e.Email, "UQ__User__A9D105347A56A7BB")
+                entity.HasIndex(e => e.Email, "UQ__User__A9D105344E127FBD")
                     .IsUnique();
 
                 entity.Property(e => e.UserId).HasColumnName("UserID");
