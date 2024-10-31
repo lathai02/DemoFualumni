@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ApiAngular.Models
+namespace ApiAngular.Models.Data
 {
     public partial class Tag
     {

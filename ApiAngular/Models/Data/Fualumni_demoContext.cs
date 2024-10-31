@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
-namespace ApiAngular.Models
+namespace ApiAngular.Models.Data
 {
     public partial class Fualumni_demoContext : DbContext
     {
@@ -25,13 +25,8 @@ namespace ApiAngular.Models
         {
             if (!optionsBuilder.IsConfigured)
             {
-                Console.WriteLine(Directory.GetCurrentDirectory());
-                IConfiguration config = new ConfigurationBuilder()
-                .SetBasePath(Directory.GetCurrentDirectory())
-                .AddJsonFile("appsettings.json", true, true)
-                .Build();
-                var strConn = config["ConnectionStrings:MyDatabase"];
-                optionsBuilder.UseSqlServer(strConn);
+#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
+                optionsBuilder.UseSqlServer("server=TOMY;database=Fualumni_demo;uid=sa;pwd=1234;TrustServerCertificate=True;");
             }
         }
 
@@ -70,7 +65,7 @@ namespace ApiAngular.Models
             {
                 entity.ToTable("Post");
 
-                entity.HasIndex(e => e.ImageName, "UQ__Post__F92C660077BA96D0")
+                entity.HasIndex(e => e.ImageName, "UQ__Post__F92C6600A09BEF8F")
                     .IsUnique();
 
                 entity.Property(e => e.PostId).HasColumnName("PostID");
@@ -97,7 +92,7 @@ namespace ApiAngular.Models
             {
                 entity.ToTable("Tag");
 
-                entity.HasIndex(e => new { e.UserId, e.PostId }, "UQ__Tag__8D29EAAE47299928")
+                entity.HasIndex(e => new { e.UserId, e.PostId }, "UQ__Tag__8D29EAAE0C722AEE")
                     .IsUnique();
 
                 entity.Property(e => e.TagId).HasColumnName("TagID");
@@ -125,12 +120,16 @@ namespace ApiAngular.Models
             {
                 entity.ToTable("User");
 
-                entity.HasIndex(e => e.Email, "UQ__User__A9D105341B3001FD")
+                entity.HasIndex(e => e.Email, "UQ__User__A9D105347A56A7BB")
                     .IsUnique();
 
                 entity.Property(e => e.UserId).HasColumnName("UserID");
 
                 entity.Property(e => e.Email)
+                    .HasMaxLength(100)
+                    .IsUnicode(false);
+
+                entity.Property(e => e.Password)
                     .HasMaxLength(100)
                     .IsUnicode(false);
 
